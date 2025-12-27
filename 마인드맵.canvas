@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"98de454d3d81ead0","x":-300,"y":-320,"width":136,"height":175,"type":"file","file":"Day1.md"},
+		{"id":"2fb5fc200a1cf8ea","x":-20,"y":-320,"width":164,"height":175,"type":"file","file":"Day2.md"}
+	],
+	"edges":[
+		{"id":"b0b120d50c469c17","fromNode":"98de454d3d81ead0","fromSide":"right","toNode":"2fb5fc200a1cf8ea","toSide":"left"}
+	]
+}
