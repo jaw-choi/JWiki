@@ -183,13 +183,23 @@
               "icon": "smart-connections",
               "title": "Connections"
             }
+          },
+          {
+            "id": "d424d56bba0b3bd4",
+            "type": "leaf",
+            "state": {
+              "type": "copilot-chat-view",
+              "state": {},
+              "icon": "message-square",
+              "title": "Copilot"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 464.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -204,11 +214,16 @@
       "smart-connections:Smart Lookup: Open lookup view": false,
       "smart-connections:Smart Connections: Open random connection": false,
       "obsidian-git:Open Git source control": false,
-      "copilot:Open Copilot Chat": false
+      "copilot:Open Copilot Chat": false,
+      "obsidian-textgenerator-plugin:Generate Text!": false,
+      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
   "active": "ae93c2cea7f72e53",
   "lastOpenFiles": [
+    "copilot/copilot-conversations/이_코드를_리팩토링해줘._포트폴리오_위키에_넣을_거니까_Refa@20251227_170713.md",
+    "copilot/copilot-conversations/day1의_내용을_바탕으로_마인드맵을_연결하고_추가로_필요한_@20251227_170713.md",
+    "copilot/copilot-conversations",
     "Day2.md",
     "Day1.md",
     "마인드맵.canvas",
