@@ -30,9 +30,23 @@
               "icon": "lucide-file",
               "title": "Day1"
             }
+          },
+          {
+            "id": "aeac861cc44af711",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "언리얼 학습.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "언리얼 학습"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -105,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Day1.md",
+                "file": "언리얼 학습.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +129,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Day1 의 백링크"
+              "title": "언리얼 학습 의 백링크"
             }
           },
           {
@@ -219,13 +233,14 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "ae93c2cea7f72e53",
+  "active": "aeac861cc44af711",
   "lastOpenFiles": [
+    "Day1.md",
+    "언리얼 학습.md",
     "copilot/copilot-conversations/이_코드를_리팩토링해줘._포트폴리오_위키에_넣을_거니까_Refa@20251227_170713.md",
     "copilot/copilot-conversations/day1의_내용을_바탕으로_마인드맵을_연결하고_추가로_필요한_@20251227_170713.md",
     "copilot/copilot-conversations",
     "Day2.md",
-    "Day1.md",
     "마인드맵.canvas",
     "2025-12-27.md",
     "새 텍스트 문서.txt",
