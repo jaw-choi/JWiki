@@ -23,26 +23,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2025-12-27.md",
+                "file": "Day2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-12-27"
-            }
-          },
-          {
-            "id": "9e08a50f75b26497",
-            "type": "leaf",
-            "state": {
-              "type": "smart-release-notes-view",
-              "state": {},
-              "icon": "file-text",
-              "title": "Release Notes"
+              "title": "Day2"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -115,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2025-12-27.md",
+                "file": "Day2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +115,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "2025-12-27 의 백링크"
+              "title": "Day2 의 백링크"
             }
           },
           {
@@ -217,8 +207,12 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "793cb3a0b9c71eab",
+  "active": "ae93c2cea7f72e53",
   "lastOpenFiles": [
+    "Day1.md",
+    "마인드맵.canvas",
+    "2025-12-27.md",
+    "새 텍스트 문서.txt",
     "copilot/copilot-custom-prompts/Rewrite as tweet thread.md",
     "copilot/copilot-custom-prompts/Rewrite as tweet.md",
     "copilot/copilot-custom-prompts/Remove URLs.md",
@@ -235,10 +229,7 @@
     "copilot/copilot-custom-prompts",
     "copilot",
     "무제.canvas",
-    "2025-12-27.md",
     "무제 1.canvas",
-    "마인드맵.canvas",
-    "Day1.md",
     "Day2.md",
     "create a link.md",
     "Welcome.md"
