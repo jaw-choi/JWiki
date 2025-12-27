@@ -23,12 +23,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Day2.md",
+                "file": "Day1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Day2"
+              "title": "Day1"
             }
           }
         ],
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Day2.md",
+                "file": "Day1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Day2 의 백링크"
+              "title": "Day1 의 백링크"
             }
           },
           {
@@ -209,6 +209,7 @@
   },
   "active": "ae93c2cea7f72e53",
   "lastOpenFiles": [
+    "Day2.md",
     "Day1.md",
     "마인드맵.canvas",
     "2025-12-27.md",
@@ -230,7 +231,6 @@
     "copilot",
     "무제.canvas",
     "무제 1.canvas",
-    "Day2.md",
     "create a link.md",
     "Welcome.md"
   ]
