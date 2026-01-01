@@ -320,7 +320,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -344,8 +344,9 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "9d887bbf194116ae",
+  "active": "d424d56bba0b3bd4",
   "lastOpenFiles": [
+    "copilot/copilot-conversations/-_PlayerController.Update_FixedUpdate에_게임플레이_활성_상태_게이트_@20260102_004945.md",
     "RollingSnow/Day1.md",
     "RollingSnow/Technical_Diagnosis.md.md",
     "RollingSnow/20260101.md",
@@ -381,7 +382,6 @@
     "copilot/copilot-custom-prompts/Emojify.md",
     "copilot/copilot-custom-prompts/Explain like I am 5.md",
     "copilot/copilot-custom-prompts/Simplify.md",
-    "copilot/copilot-custom-prompts/Summarize.md",
     "copilot/copilot-custom-prompts",
     "copilot",
     "무제.canvas",
