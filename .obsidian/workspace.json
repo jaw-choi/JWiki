@@ -21,32 +21,133 @@
             "id": "ae93c2cea7f72e53",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Day1.md",
-                "mode": "source",
-                "source": false
+                "file": "마인드맵.canvas",
+                "viewState": {
+                  "x": -198,
+                  "y": -532.5,
+                  "zoom": 0
+                }
               },
-              "icon": "lucide-file",
-              "title": "Day1"
+              "icon": "lucide-layout-dashboard",
+              "title": "마인드맵"
             }
           },
           {
-            "id": "aeac861cc44af711",
+            "id": "2678362024e25abe",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "언리얼 학습.md",
+                "file": "OneSurvival/Day2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "언리얼 학습"
+              "title": "Day2"
+            }
+          },
+          {
+            "id": "ca0ba2b0f7f58a58",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "RollingSnow/Day2.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Day2"
+            }
+          },
+          {
+            "id": "2c2fb597a2287dc5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "RollingSnow/Day2.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Day2"
+            }
+          },
+          {
+            "id": "b068d64827d3bdbf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "RollingSnow/유의할점.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "유의할점"
+            }
+          },
+          {
+            "id": "01e1769c1a3fa472",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "RollingSnow/게임 분석 방법 예시.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "게임 분석 방법 예시"
+            }
+          },
+          {
+            "id": "c06f560dcf288f53",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "RollingSnow/Technical_Diagnosis.md.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Technical_Diagnosis.md"
+            }
+          },
+          {
+            "id": "d799312c05a992d7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "RollingSnow/Day2.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Day2"
+            }
+          },
+          {
+            "id": "9d887bbf194116ae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "RollingSnow/20260101.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "20260101"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -207,9 +308,19 @@
               "icon": "message-square",
               "title": "Copilot"
             }
+          },
+          {
+            "id": "c0f962f41b77a485",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
@@ -233,16 +344,32 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "aeac861cc44af711",
+  "active": "9d887bbf194116ae",
   "lastOpenFiles": [
+    "RollingSnow/Day1.md",
+    "RollingSnow/Technical_Diagnosis.md.md",
+    "RollingSnow/20260101.md",
+    "RollingSnow/Day2.md",
+    "RollingSnow/Phase1.md.md",
+    "RollingSnow/게임 분석 방법 예시.md",
+    "RollingSnow/유의할점.md",
+    "asset/Pasted image 20251228215713.png",
+    "OneSurvival/Day2.md",
+    "OneSurvival/Day1 - Rolling Snow.md",
+    "마인드맵.canvas",
+    "asset/Pasted image 20251228215324.png",
+    "2025-12-27.md",
+    "Wanted",
+    "OneSurvival",
+    "RollingSnow",
+    "copilot/copilot-conversations/리스타트_제대로_만들기_segment_랜덤_재배치_잘_만들기_게임_@20251228_121147.md",
     "Day1.md",
     "언리얼 학습.md",
+    "asset",
+    "새 폴더",
     "copilot/copilot-conversations/이_코드를_리팩토링해줘._포트폴리오_위키에_넣을_거니까_Refa@20251227_170713.md",
     "copilot/copilot-conversations/day1의_내용을_바탕으로_마인드맵을_연결하고_추가로_필요한_@20251227_170713.md",
     "copilot/copilot-conversations",
-    "Day2.md",
-    "마인드맵.canvas",
-    "2025-12-27.md",
     "새 텍스트 문서.txt",
     "copilot/copilot-custom-prompts/Rewrite as tweet thread.md",
     "copilot/copilot-custom-prompts/Rewrite as tweet.md",
@@ -255,13 +382,9 @@
     "copilot/copilot-custom-prompts/Explain like I am 5.md",
     "copilot/copilot-custom-prompts/Simplify.md",
     "copilot/copilot-custom-prompts/Summarize.md",
-    "copilot/copilot-custom-prompts/Translate to Chinese.md",
-    "copilot/copilot-custom-prompts/Fix grammar and spelling.md",
     "copilot/copilot-custom-prompts",
     "copilot",
     "무제.canvas",
-    "무제 1.canvas",
-    "create a link.md",
-    "Welcome.md"
+    "무제 1.canvas"
   ]
 }

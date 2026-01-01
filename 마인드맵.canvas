@@ -1,9 +1,9 @@
 {
 	"nodes":[
-		{"id":"98de454d3d81ead0","x":-300,"y":-320,"width":136,"height":175,"type":"file","file":"Day1.md"},
-		{"id":"2fb5fc200a1cf8ea","x":-20,"y":-320,"width":164,"height":175,"type":"file","file":"Day2.md"}
+		{"id":"5b69145c6e4f1403","type":"file","file":"OneSurvival/Day1 - Rolling Snow.md","x":-740,"y":-1020,"width":320,"height":400},
+		{"id":"822ca795593bd2f1","x":-57,"y":-780,"width":400,"height":403,"type":"file","file":"RollingSnow/Day2.md"}
 	],
 	"edges":[
-		{"id":"b0b120d50c469c17","fromNode":"98de454d3d81ead0","fromSide":"right","toNode":"2fb5fc200a1cf8ea","toSide":"left"}
+		{"id":"bce6ad47722678c8","fromNode":"5b69145c6e4f1403","fromSide":"right","toNode":"822ca795593bd2f1","toSide":"left"}
 	]
 }
