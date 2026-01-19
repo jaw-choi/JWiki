@@ -18,34 +18,17 @@
             }
           },
           {
-            "id": "ae93c2cea7f72e53",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "RollingSnow/마인드맵.canvas",
-                "viewState": {
-                  "x": -248.31932401312434,
-                  "y": -620.4920602771506,
-                  "zoom": -1.3333333333333333
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "마인드맵"
-            }
-          },
-          {
             "id": "63c83161bcae9c22",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily.md",
+                "file": "RollingSnow/게임 분석 방법 예시.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Daily"
+              "title": "게임 분석 방법 예시"
             }
           },
           {
@@ -63,7 +46,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -263,13 +246,15 @@
   "active": "63c83161bcae9c22",
   "lastOpenFiles": [
     "RollingSnow/마인드맵.canvas",
+    "RollingSnow/게임 분석 방법 예시.md",
+    "RollingSnow/20260101.md",
+    "Daily.md",
     "Daily Note/2026-01-19(월).md",
     "Unreal Engine/Unreal Engine - DLL.md",
     "Unreal Engine/Unreal Engine - RTTI.md",
     "CS/CS - 동적 배열.md",
     "Unreal Engine",
     "EveryDay Prompt.md",
-    "Daily.md",
     "CS/CS - HashTable.md",
     "CS/CS - 컴파일 과정.md",
     "CS/CS - 정렬 알고리즘.md",
@@ -284,14 +269,12 @@
     "CS",
     "RollingSnow/Day2.md",
     "RollingSnow/Technical_Diagnosis.md.md",
-    "RollingSnow/게임 분석 방법 예시.md",
     "RollingSnow/유의할점.md",
     "OneSurvival/Day2.md",
     "asset/Pasted image 20260119185403.png",
     "asset/Pasted image 20260119185401.png",
     "asset/Pasted image 20260119185355.png",
     "RollingSnow/Day1.md",
-    "RollingSnow/20260101.md",
     "OneSurvival/Day1 - Rolling Snow.md",
     "copilot/copilot-conversations/day1의_내용을_바탕으로_마인드맵을_연결하고_추가로_필요한_@20251227_170713.md",
     "asset/Pasted image 20260119160601.png",
