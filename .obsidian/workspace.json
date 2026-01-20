@@ -23,12 +23,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RollingSnow/게임 분석 방법 예시.md",
+                "file": "Daily Note/2026-01-19(월).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "게임 분석 방법 예시"
+              "title": "2026-01-19(월)"
             }
           },
           {
@@ -37,16 +37,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "EveryDay Prompt.md",
+                "file": "Daily Note/2026-01-20(화).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "EveryDay Prompt"
+              "title": "2026-01-20(화)"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -103,7 +103,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 339.5
   },
   "right": {
     "id": "0a4a645b797bbc36",
@@ -223,7 +223,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 371.5
+    "width": 584.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -243,40 +243,45 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "63c83161bcae9c22",
+  "active": "d46116baeb9ffa9e",
   "lastOpenFiles": [
-    "RollingSnow/마인드맵.canvas",
-    "RollingSnow/게임 분석 방법 예시.md",
-    "RollingSnow/20260101.md",
-    "Daily.md",
-    "Daily Note/2026-01-19(월).md",
+    "CS/CS - HashTable.md",
+    "CS/CS - 함수 포인터.md",
+    "CS/CS - typedef와 using.md",
+    "CS/CS - 매크로 함수와 인라인 함수.md",
+    "CS/CS - 포인터 형변환의 위험성.md",
+    "CS/CS - pragma once.md",
+    "CS/CS - DLL (Dynamic Link Library.md",
+    "EveryDay Prompt.md",
+    "copilot/copilot-conversations/너는_CS_전공_조교이자_실무_엔지니어다._아래의_원본_메모는_@20260120_195940.md",
+    "Daily Note/2026-01-20(화).md",
+    "asset/Pasted image 20260120193547.png",
+    "asset/Pasted image 20260120190629.png",
+    "asset/Pasted image 20260120181257.png",
+    "asset/Pasted image 20260120181220.png",
+    "CS/CS - 컴파일 과정.md",
     "Unreal Engine/Unreal Engine - DLL.md",
+    "RollingSnow/Technical_Diagnosis.md.md",
+    "[[CS.md",
+    "CS - 링커.md",
+    "copilot/copilot-conversations/너는_CS_전공_조교이자_실무_엔지니어다._아래의_원본_메모는_@20260120_122607.md",
+    "Daily Note/2026-01-19(월).md",
+    "CS.md",
+    "Daily.md",
+    "RollingSnow/20260101.md",
+    "RollingSnow/게임 분석 방법 예시.md",
+    "RollingSnow/마인드맵.canvas",
     "Unreal Engine/Unreal Engine - RTTI.md",
     "CS/CS - 동적 배열.md",
     "Unreal Engine",
-    "EveryDay Prompt.md",
-    "CS/CS - HashTable.md",
-    "CS/CS - 컴파일 과정.md",
     "CS/CS - 정렬 알고리즘.md",
     "(비선형 자료구조).md",
     "비선형.md",
-    "정렬.md",
-    "선형자료구조.md",
-    "개념명.md",
-    "동적배열.md",
-    "().md",
     "CS/00_Index",
     "CS",
-    "RollingSnow/Day2.md",
-    "RollingSnow/Technical_Diagnosis.md.md",
-    "RollingSnow/유의할점.md",
-    "OneSurvival/Day2.md",
     "asset/Pasted image 20260119185403.png",
     "asset/Pasted image 20260119185401.png",
     "asset/Pasted image 20260119185355.png",
-    "RollingSnow/Day1.md",
-    "OneSurvival/Day1 - Rolling Snow.md",
-    "copilot/copilot-conversations/day1의_내용을_바탕으로_마인드맵을_연결하고_추가로_필요한_@20251227_170713.md",
     "asset/Pasted image 20260119160601.png",
     "asset/Pasted image 20251228215713.png",
     "asset/Pasted image 20251228215324.png",
