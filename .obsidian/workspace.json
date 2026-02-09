@@ -14,67 +14,140 @@
               "type": "graph",
               "state": {},
               "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "그래프 뷰"
             }
           },
           {
-            "id": "cae87ea2e8411792",
+            "id": "ae93c2cea7f72e53",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "마인드맵.canvas",
+                "viewState": {
+                  "x": -198,
+                  "y": -532.5,
+                  "zoom": 0
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "마인드맵"
+            }
+          },
+          {
+            "id": "2678362024e25abe",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Note/2026-01-27(화).md",
+                "file": "OneSurvival/Day2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-01-27(화)"
+              "title": "Day2"
             }
           },
           {
-            "id": "e8582bf9b84af844",
+            "id": "ca0ba2b0f7f58a58",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/CS - 동적 링크 라이브러리(DLL).md",
+                "file": "RollingSnow/Day2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CS - 동적 링크 라이브러리(DLL)"
+              "title": "Day2"
             }
           },
           {
-            "id": "20e58fe7d874db3b",
+            "id": "2c2fb597a2287dc5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/CS - 동적 링크 라이브러리(DLL).md",
+                "file": "RollingSnow/Day2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CS - 동적 링크 라이브러리(DLL)"
+              "title": "Day2"
             }
           },
           {
-            "id": "2c90364ed95f539b",
+            "id": "b068d64827d3bdbf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "개인 프로젝트.md",
+                "file": "RollingSnow/유의할점.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "개인 프로젝트"
+              "title": "유의할점"
+            }
+          },
+          {
+            "id": "01e1769c1a3fa472",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "RollingSnow/게임 분석 방법 예시.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "게임 분석 방법 예시"
+            }
+          },
+          {
+            "id": "c06f560dcf288f53",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "RollingSnow/Technical_Diagnosis.md.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Technical_Diagnosis.md"
+            }
+          },
+          {
+            "id": "d799312c05a992d7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "RollingSnow/Day2.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Day2"
+            }
+          },
+          {
+            "id": "9f5fa9909b309fea",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "개인 프로젝트 1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "개인 프로젝트 1"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -97,7 +170,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "파일 탐색기"
             }
           },
           {
@@ -131,7 +204,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 251.5
+    "width": 300
   },
   "right": {
     "id": "0a4a645b797bbc36",
@@ -251,17 +324,17 @@
       }
     ],
     "direction": "horizontal",
-    "width": 220.5
+    "width": 464.5
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "bases:Create new base": false,
+      "switcher:빠른 전환기 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 일일 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false,
+      "bases:새 베이스 생성하기": false,
       "smart-connections:Smart Connections: Open connections view": false,
       "smart-connections:Smart Lookup: Open lookup view": false,
       "smart-connections:Smart Connections: Open random connection": false,
@@ -271,55 +344,55 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "2c90364ed95f539b",
+  "active": "9f5fa9909b309fea",
   "lastOpenFiles": [
-    "해결.md",
     "개인 프로젝트.md",
-    "Quad Tree.md",
-    "asset/Pasted image 20260206155208.png",
+    "개인 프로젝트 1.md",
+    "Daily Note/2026-02-04(수).md",
+    "효율적인 충돌 처리를 위한 '공간 분할' (Quadtree).md",
+    "해결.md",
+    "함수 포인터.md",
+    "프로퍼티.md",
+    "프로그래머스 - c++.md",
+    "쿼드트리 공간 분할 구현 및 통합.md",
+    "커리어상담.md",
     "충돌 인지.md",
-    "Hp 표현방법.md",
+    "최종코드.md",
+    "지능적이면서 부하가 적은 적 AI (A star 알고리즘 최적화).md",
+    "준비.md",
+    "절차적 맵 생성 및 스테이지 설계.md",
+    "적 스폰 시스템 고도화 및 AI 최적화.md",
+    "위치와 벡터 개념.md",
+    "위 함수 텍스트기반.md",
+    "위 함수 응용해서 뭐 어떤 효과 나타낼때 화면 꿀렁꿀렁하게 보이는 느낌.md",
+    "월드 확장 및 카메라 구현.md",
     "왜 그럴까.md",
+    "오브젝트 풀링 및 기본 게임 객체 관리.md",
+    "엔진 프레임워크 구조.md",
+    "엔진 구조 이해 및 기획.md",
+    "언리얼 리플렉션.md",
+    "스마트 포인터.md",
+    "asset/Pasted image 20260206155208.png",
     "asset/Pasted image 20260206122142.png",
     "asset/Pasted image 20260206122126.png",
     "asset/Pasted image 20260206111935.png",
     "asset/Pasted image 20260205161712.png",
-    "쿼드트리 공간 분할 구현 및 통합.md",
-    "광활한 맵과 스크롤링 카메라 구현.md",
-    "Camera 구현.md",
-    "적 스폰 시스템 고도화 및 AI 최적화.md",
-    "AABB 충돌 및 기본 충돌 처리.md",
-    "오브젝트 풀링 및 기본 게임 객체 관리.md",
-    "월드 확장 및 카메라 구현.md",
-    "엔진 구조 이해 및 기획.md",
-    "절차적 맵 생성 및 스테이지 설계.md",
-    "지능적이면서 부하가 적은 적 AI (A star 알고리즘 최적화).md",
-    "지능적이면서 부하가 적은 적 AI (A",
-    "효율적인 충돌 처리를 위한 '공간 분할' (Quadtree).md",
-    "수많은 객체를 위한 '오브젝트 풀링(Object Pooling)'.md",
     "asset/Pasted image 20260204190933.png",
     "asset/Pasted image 20260204190929.png",
     "asset/Pasted image 20260204190927.png",
     "asset/Pasted image 20260204190925.png",
     "asset/Pasted image 20260204190924.png",
-    "커리어상담.md",
-    "Daily Note/2026-02-04(수).md",
-    "프로그래머스 - c++.md",
-    "Daily Note/2026-01-20(화).md",
-    "Daily.md",
-    "Daily Note/2026-02-03(화).md",
-    "SOLID.md",
-    "기획.md",
-    "RollingSnow/마인드맵.canvas",
     "Unreal Engine",
-    "CS/00_Index",
-    "CS",
     "Daily Note",
+    "CS",
+    "마인드맵.canvas",
+    "Wanted",
     "OneSurvival",
     "RollingSnow",
     "asset",
     "새 폴더",
     "copilot/copilot-conversations",
+    "새 텍스트 문서.txt",
     "무제.canvas",
     "무제 1.canvas"
   ]
