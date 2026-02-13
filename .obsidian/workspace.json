@@ -8,41 +8,31 @@
         "type": "tabs",
         "children": [
           {
-            "id": "90394163e5092d8c",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
-            "id": "cae87ea2e8411792",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily Note/2026-01-27(화).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2026-01-27(화)"
-            }
-          },
-          {
             "id": "e8582bf9b84af844",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/CS - 동적 링크 라이브러리(DLL).md",
+                "file": "Daily Note/2026-02-13(금).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CS - 동적 링크 라이브러리(DLL)"
+              "title": "2026-02-13(금)"
+            }
+          },
+          {
+            "id": "0d5447d609b1ee4b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2차 프로젝트/2차 프로젝트 기획.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2차 프로젝트 기획"
             }
           },
           {
@@ -51,12 +41,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/CS - 동적 링크 라이브러리(DLL).md",
+                "file": "CS/CS - Memory Layout.md",
                 "mode": "source",
-                "source": false
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
-              "title": "CS - 동적 링크 라이브러리(DLL)"
+              "title": "CS - Memory Layout"
             }
           },
           {
@@ -65,16 +65,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "개인 프로젝트.md",
+                "file": "1차 프로젝트/엔진 구조 이해 및 기획.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "개인 프로젝트"
+              "title": "엔진 구조 이해 및 기획"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +93,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical",
+                "sortOrder": "byModifiedTime",
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
@@ -131,7 +131,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 251.5
+    "width": 200
   },
   "right": {
     "id": "0a4a645b797bbc36",
@@ -247,11 +247,11 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
-    "width": 267.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -271,44 +271,48 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "2c90364ed95f539b",
+  "active": "543907f3f5b8999e",
   "lastOpenFiles": [
+    "Daily Note/2026-02-13(금).md",
+    "2차 프로젝트/2차 프로젝트 기획.md",
+    "2차 프로젝트",
+    "1차 프로젝트/1차 프로젝트 회고.md",
+    "1차 프로젝트/구성원 프로젝트 간단 메모.md",
+    "1차 프로젝트/개인 프로젝트.md",
+    "1차 프로젝트/기획.md",
+    "CS/CS - Memory Layout.md",
+    "2교시.md",
     "CS/CS - 동적 링크 라이브러리(DLL).md",
-    "개인 프로젝트.md",
-    "Query.md",
-    "왜 그럴까.md",
-    "해결.md",
-    "Daily Note/2026-01-22(목).md",
-    "발표 대사.md",
-    "asset/Pasted image 20260204190933.png",
-    "크게한 버전.md",
-    "Daily Note/2026-01-21(수).md",
-    "Daily Note/2026-01-23(금).md",
-    "Daily Note/2026-01-26(월).md",
+    "1차 프로젝트/엔진 구조 이해 및 기획.md",
+    "1차 프로젝트/발표 대사.md",
+    "2026-02-13.md",
+    "Daily.md",
     "Daily Note/2026-01-27(화).md",
-    "Daily Note/2026-01-28(수).md",
-    "Daily Note/2026-01-29(목).md",
-    "Daily Note/2026-01-30(금).md",
-    "Daily Note/2026-02-02(월).md",
-    "Daily Note/2026-02-03(화).md",
-    "Daily Note/2026-02-04(수).md",
-    "object pooling.md",
-    "copilot/copilot-conversations/약_5일동안_프로젝트를_준비했어._필수적으로_구현해야_하는_@20260210_154611.md",
-    "카메라.md",
+    "Memory Layout.md",
+    "오전.md",
+    "asset/Pasted image 20260213115013.png",
+    "Daily Note/2026-02-12(목).md",
+    "커리어세션/커리어 세션 정리.md",
+    "커리어세션/템플릿.md",
+    "커리어세션/커리어 플랜 템플릿.md",
+    "CS - Vector.md",
+    "Daily Note/2026-02-05(목) ~ 2026-02-11(수).md",
+    "Daily Note/2026-01-19(월).md",
+    "커리어세션/커리어상담.md",
+    "1차 프로젝트/엔진 프레임워크 구조.md",
+    "1차 프로젝트/오브젝트 풀링 및 기본 게임 객체 관리.md",
+    "원티드코테스터디",
+    "커리어세션",
+    "asset/Pasted image 20260212110649.png",
+    "asset/Pasted image 20260212102837.png",
+    "1차 프로젝트",
+    "asset/Pasted image 20260204190933.png",
     "asset/Pasted image 20260210143054.png",
-    "Quad Tree.md",
     "asset/Pasted image 20260210140107.png",
     "asset/Pasted image 20260210135835.png",
     "asset/Pasted image 20260210135747.png",
-    "충돌 인지.md",
     "asset/Pasted image 20260210134038.png",
     "asset/Pasted image 20260210125040.png",
-    "asset/Pasted image 20260210124947.png",
-    "asset/Pasted image 20260210124914.png",
-    "super..Tick(deltaTime).md",
-    "Hp 표현방법.md",
-    "asset/Pasted image 20260209120205.png",
-    "아래 코드.md",
     "지능적이면서 부하가 적은 적 AI (A",
     "RollingSnow/마인드맵.canvas",
     "Unreal Engine",
@@ -316,10 +320,6 @@
     "CS",
     "Daily Note",
     "OneSurvival",
-    "RollingSnow",
-    "asset",
-    "새 폴더",
-    "copilot/copilot-conversations",
     "무제.canvas",
     "무제 1.canvas"
   ]
