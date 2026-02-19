@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2차 프로젝트/2차 프로젝트 기획.md",
+                "file": "1차 프로젝트/기획.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2차 프로젝트 기획"
+              "title": "기획"
             }
           },
           {
@@ -271,14 +271,17 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "543907f3f5b8999e",
+  "active": "0d5447d609b1ee4b",
   "lastOpenFiles": [
-    "Daily Note/2026-02-13(금).md",
-    "2차 프로젝트/2차 프로젝트 기획.md",
-    "2차 프로젝트",
+    "1차 프로젝트/개인 프로젝트.md",
     "1차 프로젝트/1차 프로젝트 회고.md",
     "1차 프로젝트/구성원 프로젝트 간단 메모.md",
-    "1차 프로젝트/개인 프로젝트.md",
+    "1차 프로젝트/카메라.md",
+    "2차 프로젝트/2차 프로젝트 기획.md",
+    "개인 프로젝트.md",
+    "개인 프로젝트 1.md",
+    "Daily Note/2026-02-13(금).md",
+    "2차 프로젝트",
     "1차 프로젝트/기획.md",
     "CS/CS - Memory Layout.md",
     "2교시.md",
@@ -298,9 +301,6 @@
     "CS - Vector.md",
     "Daily Note/2026-02-05(목) ~ 2026-02-11(수).md",
     "Daily Note/2026-01-19(월).md",
-    "커리어세션/커리어상담.md",
-    "1차 프로젝트/엔진 프레임워크 구조.md",
-    "1차 프로젝트/오브젝트 풀링 및 기본 게임 객체 관리.md",
     "원티드코테스터디",
     "커리어세션",
     "asset/Pasted image 20260212110649.png",
