@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Note/2026-02-27(금).md",
+                "file": "Daily Note/2026-03-03(화).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-02-27(금)"
+              "title": "2026-03-03(화)"
             }
           },
           {
@@ -273,10 +273,13 @@
   },
   "active": "0d5447d609b1ee4b",
   "lastOpenFiles": [
+    "asset/Pasted image 20260303122322.png",
+    "asset/Pasted image 20260303122152.png",
     "Daily.md",
-    "Daily Note/2026-02-25(수).md",
+    "Daily Note/2026-03-03(화).md",
     "Daily Note/2026-02-27(금).md",
     "Daily Note/2026-02-26(목).md",
+    "Daily Note/2026-02-25(수).md",
     "Daily Note/2026-02-24(화).md",
     "Daily Note/2026-01-26(월).md",
     "Daily Note/2026-01-23(금).md",
@@ -297,8 +300,6 @@
     "Daily Note/2026-01-29(목).md",
     "Daily Note/2026-01-28(수).md",
     "Daily Note/2026-01-27(화).md",
-    "CS/dynamic_cast.md",
-    "CS/CS - RTTI.md",
     "content",
     "content/새 텍스트 문서.txt",
     "새 폴더",
@@ -315,7 +316,6 @@
     "asset/Pasted image 20260210135835.png",
     "asset/Pasted image 20260210135747.png",
     "asset/Pasted image 20260210134038.png",
-    "asset/Pasted image 20260210125040.png",
     "지능적이면서 부하가 적은 적 AI (A",
     "RollingSnow/마인드맵.canvas",
     "Unreal Engine",
