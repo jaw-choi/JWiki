@@ -1,0 +1,27 @@
+{
+  "settings": {
+    "token": "bd14e45d3950014e3af93e46f1d9a075",
+    "customUi": {
+      "global": {
+        "checklists": true,
+        "comments": true,
+        "description": true,
+        "labels": true,
+        "list": true,
+        "title": true,
+        "due": true
+      }
+    },
+    "selectedBoards": [],
+    "openToSide": "right",
+    "newCardPosition": "top",
+    "movedCardPosition": "top",
+    "verboseLogging": false,
+    "prepopulateTitle": false,
+    "prepopulateDescription": false,
+    "openInDesktop": true
+  },
+  "version": "2.3.4",
+  "firstRun": false,
+  "connectedCards": {}
+}
