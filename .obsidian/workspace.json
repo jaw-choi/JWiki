@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1차 프로젝트/구성원 프로젝트 간단 메모.md",
+                "file": "Daily Note/2026-04-14(화).md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,39 +28,66 @@
                 }
               },
               "icon": "lucide-file",
+              "title": "2026-04-14(화)"
+            }
+          },
+          {
+            "id": "59445ccba91b50aa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3차 프로젝트/3차 프로젝트 대본.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "3차 프로젝트 대본"
+            }
+          },
+          {
+            "id": "7770daa233a9624d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3차 프로젝트/3차 프로젝트 대본.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "3차 프로젝트 대본"
+            }
+          },
+          {
+            "id": "ffa89db02187d7e6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1차 프로젝트/구성원 프로젝트 간단 메모.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
               "title": "구성원 프로젝트 간단 메모"
             }
           },
           {
-            "id": "8b12ff4be79c8650",
+            "id": "71689a32bb41ca8c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Note/2026-03-18(수).md",
+                "file": "3차 프로젝트/3차 프로젝트 대본.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-03-18(수)"
-            }
-          },
-          {
-            "id": "2c90364ed95f539b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1차 프로젝트/엔진 구조 이해 및 기획.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "엔진 구조 이해 및 기획"
+              "title": "3차 프로젝트 대본"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -243,11 +270,12 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -267,43 +295,46 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "8b12ff4be79c8650",
+  "active": "20e58fe7d874db3b",
   "lastOpenFiles": [
-    "Daily Note/2026-03-17(화).md",
-    "Daily Note/2026-03-18(수).md",
-    "asset/Pasted image 20260318172859.png",
-    "asset/Pasted image 20260318101517.png",
-    "asset/Pasted image 20260318101504.png",
-    "asset/Pasted image 20260318092838.png",
-    "asset/Pasted image 20260318092506.png",
-    "Daily.md",
-    "Daily Note/2026-03-16(월).md",
-    "Daily Note/2026-03-12(목).md",
-    "2차 프로젝트/2차 프로젝트 계획.md",
-    "2차 프로젝트/2차 프로젝트 정리.md",
-    "RollingSnow/Technical_Diagnosis.md.md",
-    "RollingSnow/유의할점.md",
-    "RollingSnow/게임 분석 방법 예시.md",
-    "RollingSnow/Day2.md",
-    "RollingSnow/Day1.md",
-    "RollingSnow/Phase1.md.md",
-    "1차 프로젝트/1차 프로젝트 회고.md",
+    "asset/Pasted image 20260414115144.png",
+    "asset/Pasted image 20260414093151.png",
+    "Daily Note/2026-04-13(월).md",
+    "Daily Note/2026-04-14(화).md",
+    "3차 프로젝트/3차 프로젝트 계획.md",
+    "3차 프로젝트/3차 프로젝트 대본.md",
     "1차 프로젝트/구성원 프로젝트 간단 메모.md",
+    "3차 프로젝트/3차 프로젝트 - 시간 많이 먹은 버그.md",
+    "3차 프로젝트/3차 프로젝트 다른 멤버 내용.md",
+    "asset/Pasted image 20260413154426.png",
+    "asset/Pasted image 20260413092621.png",
+    "Daily Note/2026-04-10(금).md",
+    "asset/Pasted image 20260413092417.png",
+    "Daily.md",
+    "Daily Note/2026-04-09(목).md",
+    "서류스터디/서류스터디 1회차.md",
+    "서류스터디",
+    "EveryDay Prompt.md",
+    "2차 프로젝트/2차 구성원 프로젝트 종류.md",
     "1차 프로젝트/개인 프로젝트 1.md",
-    "오전.md",
-    "개인 프로젝트.md",
-    "개인 프로젝트 1.md",
-    "프로퍼티.md",
     "2차 프로젝트/2차 프로젝트 기획.md",
     "2차 프로젝트/2차프로젝트_2일차.md",
     "2차 프로젝트/공모전 기획.md",
     "2차 프로젝트/2차프로젝트이미지.md",
-    "CS - Vector.md",
-    "asset/Pasted image 20260309102509.png",
-    "asset/Pasted image 20260309102451.png",
-    "asset/Pasted image 20260309102420.png",
-    "asset/Pasted image 20260309102348.png",
-    "asset/Pasted image 20260309100522.png",
+    "2차 프로젝트/2차 프로젝트 계획.md",
+    "2차 프로젝트/2차 프로젝트 정리.md",
+    "asset/Pasted image 20260410144850.png",
+    "asset/Pasted image 20260410115229.png",
+    "asset/Pasted image 20260410092239.png",
+    "Daily Note/2026-04-08(수).md",
+    "Daily Note/2026-03-19(목).md",
+    "asset/Pasted image 20260409150456.png",
+    "asset/Pasted image 20260409145343.png",
+    "asset/Pasted image 20260409115724.png",
+    "3차- 2주 개발 계획서.md",
+    "3차-주사위 체계 의문.md",
+    "3차 프로젝트 기획.md",
+    "3차 프로젝트",
     "content",
     "content/새 텍스트 문서.txt",
     "새 폴더",
@@ -313,8 +344,6 @@
     "1차 프로젝트",
     "지능적이면서 부하가 적은 적 AI (A",
     "RollingSnow/마인드맵.canvas",
-    "Unreal Engine",
-    "CS/00_Index",
     "무제.canvas",
     "무제 1.canvas"
   ]
