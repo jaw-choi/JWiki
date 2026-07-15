@@ -8,12 +8,26 @@
         "type": "tabs",
         "children": [
           {
+            "id": "08a8a1de11404b43",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4차 프로젝트/4차 프로젝트 회고.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "4차 프로젝트 회고"
+            }
+          },
+          {
             "id": "20e58fe7d874db3b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Note/2026-04-14(화).md",
+                "file": "Daily Note/2026-06-01(월).md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,35 +42,63 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026-04-14(화)"
+              "title": "2026-06-01(월)"
             }
           },
           {
-            "id": "59445ccba91b50aa",
+            "id": "320ed112ac2ca9e4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3차 프로젝트/3차 프로젝트 대본.md",
+                "file": "5차 프로젝트/5차 프로젝트 정리.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3차 프로젝트 대본"
+              "title": "5차 프로젝트 정리"
             }
           },
           {
-            "id": "7770daa233a9624d",
+            "id": "f308822a889d8233",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3차 프로젝트/3차 프로젝트 대본.md",
+                "file": "Daily Note/2026-06-12(금).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3차 프로젝트 대본"
+              "title": "2026-06-12(금)"
+            }
+          },
+          {
+            "id": "c8ae71fddf1a2478",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Anim notify로 적용.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Anim notify로 적용"
+            }
+          },
+          {
+            "id": "5028d8e8513c1e4f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5차 프로젝트/5차 프로젝트 정리.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "5차 프로젝트 정리"
             }
           },
           {
@@ -74,20 +116,21 @@
             }
           },
           {
-            "id": "71689a32bb41ca8c",
+            "id": "6ccb750f2ede339f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3차 프로젝트/3차 프로젝트 대본.md",
+                "file": "NetDriver.h.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3차 프로젝트 대본"
+              "title": "NetDriver.h"
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -290,59 +333,57 @@
       "smart-connections:Smart Lookup: Open lookup view": false,
       "smart-connections:Smart Connections: Open random connection": false,
       "obsidian-git:Open Git source control": false,
-      "copilot:Open Copilot Chat": false,
-      "obsidian-textgenerator-plugin:Generate Text!": false,
-      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
+      "copilot:Open Copilot Chat": false
     }
   },
-  "active": "20e58fe7d874db3b",
+  "active": "5028d8e8513c1e4f",
   "lastOpenFiles": [
-    "asset/Pasted image 20260414115144.png",
-    "asset/Pasted image 20260414093151.png",
+    "0629 현재 이동 방식 정리.md",
+    "5차 프로젝트/5차 프로젝트 정리.md",
+    "0629 타일 인덱스 정리.md",
+    "HexTile Data.md",
+    "라운드 시작시 스탯 초기화.md",
+    "0623_설명.md",
+    "5차 프로젝트/5차 프로젝트 기획.md",
+    "5차 프로젝트/GAS 써야하는 이유.md",
+    "5차 프로젝트/노션 내 파트.md",
+    "NDC 면접 세션 내용.md",
+    "종범님 클라 면접 복기.md",
+    "Anim notify로 적용.md",
+    "GAS 그림 정리.md",
+    "asset/Pasted image 20260615102147.png",
+    "asset/Pasted image 20260615102042.png",
+    "asset/Pasted image 20260615102008.png",
+    "asset/Pasted image 20260615101808.png",
+    "asset/Pasted image 20260615101656.png",
+    "asset/Pasted image 20260615101502.png",
+    "asset/Pasted image 20260615101402.png",
+    "asset/Pasted image 20260615101351.png",
+    "asset/Pasted image 20260615101256.png",
+    "asset/Pasted image 20260615101231.png",
+    "tag로 행동 적용.md",
+    "CardStoneDay1.md",
+    "CookAps.md",
+    "CardStone 제작 계획.md",
+    "copilot/copilot-conversations/현재_글에서_obsidian_문법_지켜서_예쁘게_글_적으려는데_내용@20260613_135235.md",
+    "Daily Note/2026-06-08(월).md",
+    "Daily Note/2026-04-28(화).md",
     "Daily Note/2026-04-13(월).md",
-    "Daily Note/2026-04-14(화).md",
-    "3차 프로젝트/3차 프로젝트 계획.md",
-    "3차 프로젝트/3차 프로젝트 대본.md",
-    "1차 프로젝트/구성원 프로젝트 간단 메모.md",
-    "3차 프로젝트/3차 프로젝트 - 시간 많이 먹은 버그.md",
-    "3차 프로젝트/3차 프로젝트 다른 멤버 내용.md",
-    "asset/Pasted image 20260413154426.png",
-    "asset/Pasted image 20260413092621.png",
-    "Daily Note/2026-04-10(금).md",
-    "asset/Pasted image 20260413092417.png",
-    "Daily.md",
-    "Daily Note/2026-04-09(목).md",
-    "서류스터디/서류스터디 1회차.md",
+    "Daily Note/2026-03-20(금).md",
+    "Daily Note/2026-03-03(화).md",
+    "Daily Note/2026-02-24(화).md",
+    "Daily Note/2026-02-23(월).md",
+    "Daily Note/2026-02-20(금).md",
+    "figma.com/design/M4ayCRj5ORknAsmYrPWKaf",
+    "figma.com/design",
+    "figma.com",
+    "5차 프로젝트",
+    "4차 프로젝트",
     "서류스터디",
-    "EveryDay Prompt.md",
-    "2차 프로젝트/2차 구성원 프로젝트 종류.md",
-    "1차 프로젝트/개인 프로젝트 1.md",
-    "2차 프로젝트/2차 프로젝트 기획.md",
-    "2차 프로젝트/2차프로젝트_2일차.md",
-    "2차 프로젝트/공모전 기획.md",
-    "2차 프로젝트/2차프로젝트이미지.md",
-    "2차 프로젝트/2차 프로젝트 계획.md",
-    "2차 프로젝트/2차 프로젝트 정리.md",
-    "asset/Pasted image 20260410144850.png",
-    "asset/Pasted image 20260410115229.png",
-    "asset/Pasted image 20260410092239.png",
-    "Daily Note/2026-04-08(수).md",
-    "Daily Note/2026-03-19(목).md",
-    "asset/Pasted image 20260409150456.png",
-    "asset/Pasted image 20260409145343.png",
-    "asset/Pasted image 20260409115724.png",
-    "3차- 2주 개발 계획서.md",
-    "3차-주사위 체계 의문.md",
-    "3차 프로젝트 기획.md",
     "3차 프로젝트",
     "content",
     "content/새 텍스트 문서.txt",
     "새 폴더",
-    "2차 프로젝트",
-    "원티드코테스터디",
-    "커리어세션",
-    "1차 프로젝트",
-    "지능적이면서 부하가 적은 적 AI (A",
     "RollingSnow/마인드맵.canvas",
     "무제.canvas",
     "무제 1.canvas"
