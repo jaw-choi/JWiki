@@ -1,10 +1,23 @@
 # 옵시디언 시스템 파일 제외
-.obsidian/workspace.json
-.obsidian/workspace-mobile.json
-.obsidian/graph.json
-.obsidian/appearance.json
-.trash/
+content/.obsidian/workspace.json
+content/.obsidian/workspace-mobile.json
+content/.obsidian/graph.json
+content/.obsidian/appearance.json
+content/.trash/
+
+# Smart Connections 임베딩 캐시 (용량 크고 매번 변경됨)
+content/.smart-env/
 
 # AI 관련 캐시나 큰 용량의 에셋이 있다면 추가
 *.exe
 *.dll
+
+# Quartz
+.quartz-cache/
+.quartz/plugins/
+public/
+node_modules/
+package-lock.json.bak
+prof/
+tsconfig.tsbuildinfo
+quartz/cli/tui/dist/
