@@ -1,0 +1,245 @@
+{
+  "main": {
+    "id": "997efd06f765d19b",
+    "type": "split",
+    "children": [
+      {
+        "id": "8c75792424ec5f74",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cf880f2d2a66248f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AICE Associate 계획서.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "AICE Associate 계획서"
+            }
+          },
+          {
+            "id": "3de04a93c48c39aa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/01.Unreal/HexTile Data.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "HexTile Data"
+            }
+          },
+          {
+            "id": "c1b130f2d2a77bf3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AI 준비.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "AI 준비"
+            }
+          },
+          {
+            "id": "937472ebf4859f05",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "종합계획.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "종합계획"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1816eb9a49726d0e",
+    "type": "split",
+    "children": [
+      {
+        "id": "1ea2e11d6f3dcb19",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3a85ffe9e9e91732",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "파일 탐색기"
+            }
+          },
+          {
+            "id": "c36291281d8c2d36",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "검색"
+            }
+          },
+          {
+            "id": "c68787429706f862",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "북마크"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "79bfc26b5230e413",
+    "type": "split",
+    "children": [
+      {
+        "id": "aa7839cd1675c112",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d1bb15db7e99a957",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "AICE Associate 3주 완성 학습계획서.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "AICE Associate 3주 완성 학습계획서 의 백링크"
+            }
+          },
+          {
+            "id": "8ef899f0860bfe79",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "AICE Associate 3주 완성 학습계획서.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "AICE Associate 3주 완성 학습계획서 의 나가는 링크"
+            }
+          },
+          {
+            "id": "176ba627efa68d60",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "태그"
+            }
+          },
+          {
+            "id": "064895cce8d6eac6",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "모든 속성"
+            }
+          },
+          {
+            "id": "6cfa971039af8ceb",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "AICE Associate 3주 완성 학습계획서.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "AICE Associate 3주 완성 학습계획서 의 개요"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:빠른 전환기 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 일일 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false,
+      "bases:새 베이스 생성하기": false
+    }
+  },
+  "active": "937472ebf4859f05",
+  "lastOpenFiles": [
+    "AI 준비.md",
+    "content/01.Unreal/HexTile Data.md",
+    "AICE Associate 계획서.md",
+    "종합계획.md",
+    "content/01.Unreal/GAS 그림 정리.md",
+    "content/01.Unreal/Anim notify로 적용.md",
+    "content/01.Unreal/언리얼에서 Tick안쓰면 성능 향상이 기대 되는 이유.md",
+    "content/01.Unreal/언리얼 리플렉션.md",
+    "content/01.Unreal/리플리케이션 프로퍼티 지정.md",
+    "content/01.Unreal/라운드 시작시 스탯 초기화.md",
+    "빅분기 계획서 9.5.md"
+  ]
+}
