@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI Cloud/2026-09-10_workflow.md",
+                "file": "넥토리얼_AI면접_모의세트_v3.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-09-10_workflow"
+              "title": "넥토리얼_AI면접_모의세트_v3"
             }
           }
         ],
@@ -258,8 +258,11 @@
   },
   "active": "63bdca00acf5bee3",
   "lastOpenFiles": [
-    "AI Cloud/2026-09-10_PM.md",
+    "AI 준비.md",
+    "AICE Associate 계획서.md",
+    "빅분기 계획서 9.5.md",
     "AI Cloud/2026-09-10_workflow.md",
+    "AI Cloud/2026-09-10_PM.md",
     "AI Cloud/미확인 919924.crdownload",
     "AI Cloud/2026-09-10_AM.md",
     "AI Cloud/2026-09-09.md",
@@ -276,10 +279,7 @@
     "content/01.Unreal/언리얼 리플렉션.md",
     "content/01.Unreal/라운드 시작시 스탯 초기화.md",
     "AI Cloud/20260909.md",
-    "빅분기 계획서 9.5.md",
     "종합계획.md",
-    "AI 준비.md",
-    "AICE Associate 계획서.md",
     "content/01.Unreal/HexTile Data.md",
     "content/01.Unreal/GAS 그림 정리.md",
     "content/01.Unreal/Anim notify로 적용.md",
