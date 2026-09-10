@@ -55,16 +55,44 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "종합계획.md",
+                "file": "빅분기 계획서 9.5.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "종합계획"
+              "title": "빅분기 계획서 9.5"
+            }
+          },
+          {
+            "id": "519e21a05c379753",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AI Cloud/수업 내용 정리 프롬프트.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "수업 내용 정리 프롬프트"
+            }
+          },
+          {
+            "id": "63bdca00acf5bee3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AI Cloud/2026-09-10_workflow.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2026-09-10_workflow"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -83,7 +111,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical",
+                "sortOrder": "byModifiedTime",
                 "autoReveal": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -228,18 +256,34 @@
       "bases:새 베이스 생성하기": false
     }
   },
-  "active": "937472ebf4859f05",
+  "active": "63bdca00acf5bee3",
   "lastOpenFiles": [
-    "AI 준비.md",
-    "content/01.Unreal/HexTile Data.md",
-    "AICE Associate 계획서.md",
+    "AI Cloud/2026-09-10_PM.md",
+    "AI Cloud/2026-09-10_workflow.md",
+    "AI Cloud/미확인 919924.crdownload",
+    "AI Cloud/2026-09-10_AM.md",
+    "AI Cloud/2026-09-09.md",
+    "content/06.Daily/2026-01-21(수).md",
+    "content/06.Daily/2026-01-20(화).md",
+    "content/06.Daily/2026-01-19(월).md",
+    "content/06.Daily/2026-04-09(목).md",
+    "content/06.Daily/2026-06-11(목).md",
+    "content/06.Daily/2026-06-12(금).md",
+    "content/06.Daily/2026-01-29(목).md",
+    "AI Cloud/JWIKI_DAILY_DIGEST_README.md",
+    "AI Cloud/수업 내용 정리 프롬프트.md",
+    "content/06.Daily/Daily.md",
+    "content/01.Unreal/언리얼 리플렉션.md",
+    "content/01.Unreal/라운드 시작시 스탯 초기화.md",
+    "AI Cloud/20260909.md",
+    "빅분기 계획서 9.5.md",
     "종합계획.md",
+    "AI 준비.md",
+    "AICE Associate 계획서.md",
+    "content/01.Unreal/HexTile Data.md",
     "content/01.Unreal/GAS 그림 정리.md",
     "content/01.Unreal/Anim notify로 적용.md",
     "content/01.Unreal/언리얼에서 Tick안쓰면 성능 향상이 기대 되는 이유.md",
-    "content/01.Unreal/언리얼 리플렉션.md",
-    "content/01.Unreal/리플리케이션 프로퍼티 지정.md",
-    "content/01.Unreal/라운드 시작시 스탯 초기화.md",
-    "빅분기 계획서 9.5.md"
+    "content/01.Unreal/리플리케이션 프로퍼티 지정.md"
   ]
 }
