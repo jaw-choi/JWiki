@@ -258,6 +258,7 @@
   },
   "active": "63bdca00acf5bee3",
   "lastOpenFiles": [
+    "미확인 642216.crdownload",
     "AI 준비.md",
     "AICE Associate 계획서.md",
     "빅분기 계획서 9.5.md",
@@ -283,7 +284,6 @@
     "content/01.Unreal/HexTile Data.md",
     "content/01.Unreal/GAS 그림 정리.md",
     "content/01.Unreal/Anim notify로 적용.md",
-    "content/01.Unreal/언리얼에서 Tick안쓰면 성능 향상이 기대 되는 이유.md",
-    "content/01.Unreal/리플리케이션 프로퍼티 지정.md"
+    "content/01.Unreal/언리얼에서 Tick안쓰면 성능 향상이 기대 되는 이유.md"
   ]
 }
