@@ -8,133 +8,90 @@
         "type": "tabs",
         "children": [
           {
-            "id": "cf880f2d2a66248f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AICE Associate 계획서.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "AICE Associate 계획서"
-            }
-          },
-          {
-            "id": "3de04a93c48c39aa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/01.Unreal/HexTile Data.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "HexTile Data"
-            }
-          },
-          {
-            "id": "c1b130f2d2a77bf3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AI 준비.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "AI 준비"
-            }
-          },
-          {
-            "id": "937472ebf4859f05",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "빅분기 계획서 9.5.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "빅분기 계획서 9.5"
-            }
-          },
-          {
             "id": "519e21a05c379753",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI Cloud/수업 내용 정리 프롬프트.md",
+                "file": "understanding_study_guide.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "수업 내용 정리 프롬프트"
+              "title": "understanding_study_guide"
             }
           },
           {
-            "id": "63bdca00acf5bee3",
+            "id": "9f89b5ddb60c32cb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "넥토리얼_AI면접_모의세트_v3.md",
+                "file": "AI Cloud/2026-09-16.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "넥토리얼_AI면접_모의세트_v3"
+              "title": "2026-09-16"
             }
           },
           {
-            "id": "9b1a8e56b05aabe3",
+            "id": "cf857f10574fcdda",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "넥토리얼_AI면접_모의세트_v5.md",
+                "file": "무제 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "넥토리얼_AI면접_모의세트_v5"
+              "title": "무제 1"
             }
           },
           {
-            "id": "d8968cbc2248eeea",
+            "id": "4e89a9cc5dbefa1c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "넥토 AI 코테 준비 _Claude.md",
+                "file": "AI Cloud/2026-09-16.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "넥토 AI 코테 준비 _Claude"
+              "title": "2026-09-16"
             }
           },
           {
-            "id": "145590a92c1d14c7",
+            "id": "08dff1e07db103de",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "넥토 AI 코테 준비 _GPT.md",
+                "file": "넥토리얼_ai_coding_test_guide.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "넥토 AI 코테 준비 _GPT"
+              "title": "넥토리얼_ai_coding_test_guide"
+            }
+          },
+          {
+            "id": "a86d47f3e45b44e1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AI Cloud/2026-09-23.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2026-09-23"
             }
           }
-        ],
-        "currentTab": 8
+        ]
       }
     ],
     "direction": "vertical"
@@ -193,7 +150,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "79bfc26b5230e413",
@@ -298,15 +255,14 @@
       "bases:새 베이스 생성하기": false
     }
   },
-  "active": "145590a92c1d14c7",
+  "active": "519e21a05c379753",
   "lastOpenFiles": [
-    "넥토 AI 코테 준비 _Claude.md",
+    "AI Cloud/2026-09-28.md",
+    "AI Cloud/미확인 669969.crdownload",
+    "understanding_quiz.md",
+    "understanding_study_guide.md",
     "넥토 AI 코테 준비 _GPT.md",
-    "넥토리얼_AI면접_모의세트_v5.md",
-    "무제.md",
-    "무제 1.md",
-    "넥슨 AI 코딩 대비 gpt 대화.md",
-    "Opic 대비.md",
+    "넥토 AI 코테 준비 _Claude.md",
     "AI Cloud/2026-09-23.md",
     "AI Cloud/2026-09-22.md",
     "AI Cloud/2026-09-21.md",
@@ -315,20 +271,27 @@
     "AI Cloud/2026-09-16.md",
     "AI Cloud/2026-09-15.md",
     "AI Cloud/2026-09-14.md",
-    "넥슨 AI 코딩테스트 준비_GPT.md",
+    "AI Cloud/2026-09-11.md",
+    "넥슨 AI 코딩 대비 gpt 대화 _ sesac 강사님.md",
+    "넥토리얼_AI면접_모의세트_v5.md",
+    "Opic 대비.md",
+    "빅분기 계획서 9.5.md",
+    "AI 준비.md",
+    "content/01.Unreal/HexTile Data.md",
+    "AICE Associate 계획서.md",
+    "무제 1.md",
     "넥토리얼_ai_coding_test_guide.md",
-    "넥슨 AI 코딩테스트 준비_Claude.md",
-    "넥토리얼_AI면접_모의세트_v3.md",
+    "무제.md",
     "무제.base",
     "넥토리얼_AI면접_모의세트_v4.md",
-    "AI Cloud/2026-09-11.md",
-    "미확인 34488.crdownload",
-    "미확인 642216.crdownload",
-    "AI 준비.md",
-    "AICE Associate 계획서.md",
-    "빅분기 계획서 9.5.md",
-    "AI Cloud/2026-09-10_workflow.md",
-    "AI Cloud/2026-09-10_PM.md",
+    "넥토리얼_AI면접_모의세트_v3.md",
+    "AI Cloud/미확인 695930.crdownload",
+    "AI Cloud/미확인 774302.crdownload",
+    "AI Cloud/미확인 877487.crdownload",
+    "AI Cloud/미확인 581644.crdownload",
+    "AI Cloud/미확인 736024.crdownload",
+    "AI Cloud/미확인 369385.crdownload",
+    "AI Cloud/미확인 560475.crdownload",
     "AI Cloud/미확인 919924.crdownload"
   ]
 }
