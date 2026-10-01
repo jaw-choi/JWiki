@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "nexon_ai_test_guide.md",
+                "file": "nexon_ai_test_guide2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "nexon_ai_test_guide"
+              "title": "nexon_ai_test_guide2"
             }
           },
           {
@@ -257,8 +257,9 @@
   },
   "active": "519e21a05c379753",
   "lastOpenFiles": [
+    "nexon_ai_test_guide1.md",
+    "nexon_ai_test_guide2.md",
     "AI Cloud/2026-09-30.md",
-    "nexon_ai_test_guide.md",
     "understanding_study_guide.md",
     "AI Cloud/2026-09-28.md",
     "AI Cloud/미확인 669969.crdownload",
@@ -283,7 +284,6 @@
     "AICE Associate 계획서.md",
     "무제 1.md",
     "넥토리얼_ai_coding_test_guide.md",
-    "무제.md",
     "무제.base",
     "AI Cloud/미확인 695930.crdownload",
     "AI Cloud/미확인 774302.crdownload",
