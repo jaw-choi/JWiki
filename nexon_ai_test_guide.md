@@ -216,7 +216,57 @@ int main() {
 ## 4번. 버그 수정 [AI 선택]
 
 첨부: `q4_inventory.cpp`
+``` c++
+// [모의고사 1세트 4번 첨부] 인벤토리 아이템 추가
+// 빌드: g++ -std=c++17 q4_inventory.cpp -o q4 && ./q4
+#include <algorithm>
+#include <cstdio>
+#include <vector>
 
+struct Slot {
+    int itemId = 0;  // 0 == 빈 슬롯
+    int count = 0;
+};
+
+// 규칙
+// 1. 같은 itemId가 있는 슬롯부터 maxStack까지 채운다.
+// 2. 남은 양은 앞쪽 빈 슬롯부터 maxStack씩 채운다.
+// 3. 공간이 부족하면 넣을 수 있는 만큼만 넣고, 못 넣은 개수를 반환한다.
+int AddItem(std::vector<Slot>& inv, int itemId, int amount, int maxStack) {
+    for (auto& s : inv) {
+        if (s.itemId == itemId && s.count < maxStack) {
+            int add = std::min(maxStack - s.count, amount);
+            s.count += add;
+            amount -= add;
+        }
+    }
+    for (auto& s : inv) {
+        if (s.itemId == 0) {
+            s.itemId = itemId;
+            s.count = std::min(amount, maxStack);
+            amount -= s.count;
+        }
+        if (amount == 0) break;
+    }
+    return amount;
+}
+
+static void Print(const std::vector<Slot>& inv) {
+    for (const auto& s : inv) std::printf("[%d:%d] ", s.itemId, s.count);
+    std::printf("\n");
+}
+
+int main() {
+    // 0번 칸 아이템은 이미 다 써서 비어 있는 상태
+    std::vector<Slot> inv = {{0, 0}, {1, 5}, {0, 0}, {0, 0}};
+    int r1 = AddItem(inv, 1, 3, 10);
+    int r2 = AddItem(inv, 2, 10, 10);
+    int r3 = AddItem(inv, 3, 25, 10);
+    Print(inv);
+    std::printf("returns: %d %d %d\n", r1, r2, r3);
+    return 0;
+}
+```
 ### 기획 규칙
 
 1. 같은 itemId가 있는 슬롯부터 maxStack까지 채운다.
