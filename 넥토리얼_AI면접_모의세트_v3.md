@@ -293,7 +293,7 @@
 **모범답안**: 좋다고 생각함 — 이유는 조합의 유연한 확장성과 밸런싱 편의성. 자체엔진에서 Component 추상 클래스를 만들고 GameObject가 벡터로 Component 포인터들을 들고 Update/Draw를 위임하는 구조를 실제로 써봤고, 새 오브젝트나 난이도 조절이 필요할 때 컴포넌트 단위로 쉽게 추가/교체할 수 있었음. Unreal에서도 컴포넌트별로 기능을 나누고 Blueprint에서 수치를 빠르게 조절했던 경험과 같은 맥락 — 뱀서라이크처럼 수많은 아이템/스킬 조합이 필요한 장르에는 CBD가 특히 유리하다는 논리로 마무리.
 
 ### Q34. 그래픽스 파이프라인 설명
-**모범답안**: CPU에서 정점 데이터를 준비(VAO/VBO) → Vertex Shader(정점별 변환) → Primitive Assembly(정점을 삼각형 등으로 조립) → Rasterization(래스터화, 픽셀 후보 생성) → Fragment/Pixel Shader(픽셀별 색상 계산) → Output Merging(깊이/스텐실 테스트, 블렌딩) 순서. 본인의 디퍼드 셰이딩 프로젝트(G-Buffer, MRT)와 자연스럽게 연결해서 설명하면 좋음.
+**모범답안**: CPU에서 정점 데이터를 준비(VAO/VBO) → Vertex Shader(정점별 변환)  → Primitive Assembly(정점을 삼각형 등으로 조립) → Rasterization(래스터화, 픽셀 후보 생성) → Fragment/Pixel Shader(픽셀별 색상 계산) → Output Merging(깊이/스텐실 테스트, 블렌딩) 순서. 본인의 디퍼드 셰이딩 프로젝트(G-Buffer, MRT)와 자연스럽게 연결해서 설명하면 좋음.
 
 ### Q35. Real-Time Rendering 책에서 가장 인상 깊었던 부분
 → 보류. 그래픽스보다는 다른 강점(CS 기초, 프로젝트 경험) 위주로 답변 방향을 잡기로 했으므로 지금은 비워둡니다. 이 질문이 실제로 나오면 짧게 아는 선에서 답하고 다음 질문으로 넘어가는 정도로만 대비하면 됩니다.
